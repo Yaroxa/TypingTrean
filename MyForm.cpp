@@ -8,8 +8,3 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 	Application::Run(gcnew MyForm());
 	return 0;
 }
-
-//int main(array<System::String^>^ args) 
-//{
-//	
-//}
