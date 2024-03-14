@@ -1,0 +1,4 @@
+C:\Users\Yaroxaku\source\repos\Laba4\Debug\Laba4.vcxproj.AssemblyReference.cache
+C:\Users\Yaroxaku\source\repos\Laba4\Debug\Laba4.MyForm.resources
+C:\Users\Yaroxaku\source\repos\Laba4\Debug\Laba4.vcxproj.GenerateResource.cache
+C:\Users\Yaroxaku\source\repos\Laba4\Debug\Laba4.exe

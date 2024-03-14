@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Yaroxaku\source\repos\Laba4\MyForm.h(277,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Yaroxaku\source\repos\Laba4\MyForm.h(278,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Yaroxaku\source\repos\Laba4\MyForm.h(330,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laba4.vcxproj -> C:\Users\Yaroxaku\source\repos\Laba4\Debug\Laba4.exe
